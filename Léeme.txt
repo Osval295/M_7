@@ -1,0 +1,4 @@
+Título: Generador del modelo (7)  de los Libros de Campos Agrometeorológicos en lenguaje Python.
+
+Resumen:
+	Realiza varias consultas a los datos de un excel y con el resultado de las consulta realiza operaciones para llenar algunos de las columnas del modelo 7 de los libros de campos.
